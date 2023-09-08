@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shweta-Vedpathak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cloud and devops technology.
+- 🌱 I’m currently learning devops tools. 
+- 💞️ I’m looking to collaborate on could and devops project.
 - 📫 How to reach me ...
 
 <!---
